@@ -1,6 +1,5 @@
 # Ex.No:1 To create a HelloWorld Activity using all lifecycles methods to display messages.
 
-
 ## AIM:
 
 To create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio.
@@ -116,18 +115,11 @@ public class MainActivity extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ## OUTPUT:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9b769669-1ffd-4730-914a-361da0b8a053" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/48ff1d8d-b84a-43b7-92bc-fde5a15c248f" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33e91752-1385-4aa0-ba1d-5a4fe9e92d2f" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/056984fa-4a19-43a3-814c-075c313546d2" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3394162-649a-4ad7-bc2e-bed7db14c7d3" />
-
-## Result:
-
-
-
-
-
+<img width="960" height="524" alt="Screenshot 2026-10-27 084827" src="https://github.com/user-attachments/assets/578517a6-2287-4f52-977b-55f8e1062620" />
+<img width="960" height="523" alt="Screenshot 2026-10-27 084833" src="https://github.com/user-attachments/assets/71917a50-27f0-410a-8097-494892a1544d" />
+<img width="960" height="524" alt="Screenshot 2026-10-27 084914" src="https://github.com/user-attachments/assets/c3e872ea-9cd3-4644-a257-9f4fd3dc1f29" />
+<img width="960" height="540" alt="Screenshot 2026-10-27 084954" src="https://github.com/user-attachments/assets/26e53917-327d-4471-a9c8-e5636d1e9dc4" />
+<img width="960" height="526" alt="Screenshot 2026-10-27 085139" src="https://github.com/user-attachments/assets/499a8568-42ea-4921-a53f-1e93bb067e78" />
 
 ## RESULT
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
